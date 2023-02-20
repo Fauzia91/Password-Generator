@@ -15,6 +15,7 @@ A password generator using Javascript that consists of 8-128 characters includin
 [Deployed](#deployed)
 [Contributing](#contributing)
 [License](#license)
+[Github](#github)
 [Contact](#contact) 
 
 ### Deployed
@@ -50,8 +51,10 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-## Questions
+### Github
 
 https://github.com/Fauzia91/Password-Generator 
+
+### Questions
 
 Email: fauzia.azad13@gmail.com
