@@ -52,6 +52,6 @@ SOFTWARE.
 
 ## Questions
 
-https://github.com/Fauzia91/About-Me-Portfolio
+https://github.com/Fauzia91/Password-Generator 
 
 Email: fauzia.azad13@gmail.com
