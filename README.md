@@ -4,7 +4,7 @@
 
 A password generator using Javascript that consists of 8-128 characters including special characters, lower and uppercase letters and numbers.
 
-<img width="735" alt="Screenshot 2023-02-20 at 6 07 12 PM" src="https://user-images.githubusercontent.com/123041731/220210986-e12cf61c-d3aa-4df2-a21a-672d4b4e1784.png"> height="200px" > 
+<img width="1043" alt="Screenshot 2023-02-20 at 6 07 26 PM" src="https://user-images.githubusercontent.com/123041731/220212023-826b773d-147f-4af4-89a6-7f184e69e0e6.png">
 
 <img width="1044" alt="Screenshot 2023-02-20 at 6 07 54 PM" src="https://user-images.githubusercontent.com/123041731/220211427-3b4628b0-2526-4e0e-999e-24d6edff751d.png">
     
