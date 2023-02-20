@@ -12,12 +12,12 @@ A password generator using Javascript that consists of 8-128 characters includin
 ### Table of Contents
 ***
 
-[Deployed Link](#deployed link)
+[Deployed](#deployed)
 [Contributing](#contributing)
 [License](#license)
 [Contact](#contact) 
 
-### Deployed Link
+### Deployed
 
 Go to https://fauzia91.github.io/Password-Generator/
 
