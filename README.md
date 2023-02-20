@@ -2,7 +2,7 @@
 
 ### Project Description
 
-A password generator using Javascript that consists of 8-128 characters including special characters, lower and uppercase letters and numbers.
+A password generator using Javascript that consists of 8-128 characters including special characters, lowercase, uppercase letters and numbers.
 
 <img width="1043" alt="Screenshot 2023-02-20 at 6 07 26 PM" src="https://user-images.githubusercontent.com/123041731/220212023-826b773d-147f-4af4-89a6-7f184e69e0e6.png">
 
