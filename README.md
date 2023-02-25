@@ -55,6 +55,6 @@ SOFTWARE.
 
 https://github.com/Fauzia91/Password-Generator 
 
-### Questions
+### Contact
 
 Email: fauzia.azad13@gmail.com
